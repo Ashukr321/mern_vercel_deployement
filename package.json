@@ -1,0 +1,19 @@
+{
+  "name": "mern_vercel_deployement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "epxress": "^0.0.1-security",
+    "nodemon": "^3.1.9"
+  }
+}
